@@ -1,3 +1,3 @@
 # Hackerrank JAVA Solutions---Optimized
 
-I'll be posting all the optimized solutions by me.
+I'll be posting all the JAVA problems optimized solutions by me.
